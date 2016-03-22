@@ -81,7 +81,7 @@
      <dependency>
     	<groupId>org.hibernate.common</groupId>
     	<artifactId>hibernate-commons-annotations</artifactId>
-    	<version>${hibernate-version}</version>
+    	<version>4.0.2.Final</version>
     </dependency>
      <dependency>
     	<groupId>org.hibernate</groupId>
